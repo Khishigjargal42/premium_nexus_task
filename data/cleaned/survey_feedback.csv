@@ -1,0 +1,901 @@
+feedback_id,feedback_date,branch_id,product_code,quality_score,visual_score,would_buy_again,what_to_improve,general_thoughts
+F00001,2025-01-27,B01,RTE002,7,7,yes,bundle with drink,liked the freshness
+F00002,2025-01-06,B05,HOU002,6,8,no,keep same quality,quick and convenient
+F00003,2025-01-01,B05,RTE002,7,4,maybe,more flavor options,good value for money
+F00004,2025-02-16,B01,BEV002,10,6,yes,keep same quality,liked the freshness
+F00005,2025-01-29,B02,HOU001,4,6,yes,freshness issue,quality felt inconsistent
+F00006,2025-02-06,B06,HOU002,10,8,yes,keep same quality,good value for money
+F00007,2025-03-29,B05,DES002,6,5,yes,bundle with drink,liked the freshness
+F00008,2025-01-17,B05,BEV002,6,4,yes,more flavor options,quick and convenient
+F00009,2025-01-02,B03,BEV001,6,7,maybe,more flavor options,good value for money
+F00010,2025-02-12,B03,RTE002,9,5,maybe,keep same quality,would buy again
+F00011,2025-02-01,B05,SNK001,8,10,yes,keep same quality,would buy again
+F00012,2025-03-06,B05,RTE001,5,3,maybe,temperature not right,good idea but execution weak
+F00013,2025-02-24,B06,SNK001,9,8,maybe,better promotion visibility,would buy again
+F00014,2025-02-07,B05,SNK004,7,6,maybe,more flavor options,good value for money
+F00015,2025-01-13,B04,DES001,9,6,maybe,bundle with drink,would buy again
+F00016,2025-02-24,B04,DES001,7,9,yes,bundle with drink,would buy again
+F00017,2025-02-08,B01,RTE003,9,7,yes,more flavor options,quick and convenient
+F00018,2025-02-26,B02,DES001,7,4,yes,bundle with drink,would buy again
+F00019,2025-02-18,B04,SNK003,6,8,no,better promotion visibility,quick and convenient
+F00020,2025-02-11,B04,HOU003,7,6,no,bundle with drink,quick and convenient
+F00021,2025-02-10,B04,BEV001,9,5,no,bundle with drink,liked the freshness
+F00022,2025-01-12,B05,HOU003,8,6,maybe,keep same quality,quick and convenient
+F00023,2025-02-13,B04,SNK002,9,7,yes,more flavor options,liked the freshness
+F00024,2025-02-04,B06,BEV001,8,6,yes,better promotion visibility,good value for money
+F00025,2025-01-13,B04,HOU003,7,9,maybe,better promotion visibility,quick and convenient
+F00026,2025-02-15,B05,BEV002,6,8,yes,better promotion visibility,good value for money
+F00027,2025-02-24,B05,DES001,5,5,no,too salty,quality felt inconsistent
+F00028,2025-01-17,B03,SNK002,7,6,no,keep same quality,would buy again
+F00029,2025-01-22,B04,DES003,6,7,no,more flavor options,quick and convenient
+F00030,2025-02-17,B01,BEV001,6,4,maybe,keep same quality,good value for money
+F00031,2025-01-25,B01,DES003,6,10,yes,keep same quality,quick and convenient
+F00032,2025-01-23,B02,SNK001,10,7,no,better promotion visibility,quick and convenient
+F00033,2025-02-02,B03,RTE004,5,8,maybe,out of stock often,not as fresh as before
+F00034,2025-03-16,B03,DES002,8,7,maybe,bundle with drink,would buy again
+F00035,2025-01-26,B02,RTE001,6,7,no,bundle with drink,liked the freshness
+F00036,2025-02-09,B04,DES001,6,4,no,more flavor options,liked the freshness
+F00037,2025-02-14,B01,DES001,7,7,yes,keep same quality,would buy again
+F00038,2025-01-25,B02,BEV001,6,4,no,keep same quality,good value for money
+F00039,2025-01-13,B06,BEV003,4,6,yes,portion too small,quality felt inconsistent
+F00040,2025-03-07,B05,SNK003,6,7,no,more flavor options,quick and convenient
+F00041,2025-03-20,B03,HOU002,7,5,no,bundle with drink,liked the freshness
+F00042,2025-03-23,B01,BEV004,7,6,yes,keep same quality,quick and convenient
+F00043,2025-01-09,B05,BEV001,8,5,yes,bundle with drink,liked the freshness
+F00044,2025-01-10,B06,HOU003,5,7,yes,temperature not right,not as fresh as before
+F00045,2025-03-23,B04,BEV003,7,6,yes,more flavor options,quick and convenient
+F00046,2025-02-20,B01,DES002,9,6,yes,better promotion visibility,liked the freshness
+F00047,2025-02-28,B06,BEV003,5,7,maybe,out of stock often,good idea but execution weak
+F00048,2025-01-02,B05,BEV002,7,8,yes,better promotion visibility,good value for money
+F00049,2025-02-01,B06,BEV004,8,5,maybe,better promotion visibility,would buy again
+F00050,2025-01-22,B03,SNK002,8,6,yes,better promotion visibility,quick and convenient
+F00051,2025-01-17,B02,SNK001,8,7,yes,more flavor options,liked the freshness
+F00052,2025-02-21,B06,SNK002,6,6,no,more flavor options,liked the freshness
+F00053,2025-03-30,B04,HOU002,5,6,maybe,portion too small,not as fresh as before
+F00054,2025-03-04,B04,SNK004,6,7,no,better promotion visibility,would buy again
+F00055,2025-03-01,B02,RTE001,5,8,no,freshness issue,quality felt inconsistent
+F00056,2025-02-07,B03,HOU003,8,7,maybe,keep same quality,would buy again
+F00057,2025-03-29,B05,RTE004,7,8,yes,keep same quality,would buy again
+F00058,2025-02-03,B02,BEV003,6,7,yes,better promotion visibility,would buy again
+F00059,2025-01-31,B05,HOU003,4,8,no,freshness issue,quality felt inconsistent
+F00060,2025-01-30,B03,RTE001,3,8,no,packaging damaged,not as fresh as before
+F00061,2025-03-05,B05,DES001,9,5,maybe,keep same quality,quick and convenient
+F00062,2025-02-22,B06,SNK004,5,8,maybe,packaging damaged,not as fresh as before
+F00063,2025-03-04,B04,RTE004,6,4,yes,bundle with drink,good value for money
+F00064,2025-03-31,B02,HOU001,5,7,no,too salty,good idea but execution weak
+F00065,2025-02-17,B02,BEV004,7,8,yes,bundle with drink,liked the freshness
+F00066,2025-01-08,B03,DES001,6,5,no,more flavor options,quick and convenient
+F00067,2025-01-23,B01,BEV001,5,6,yes,temperature not right,not as fresh as before
+F00068,2025-03-07,B06,BEV001,7,7,maybe,better promotion visibility,good value for money
+F00069,2025-01-14,B02,HOU003,6,6,no,more flavor options,would buy again
+F00070,2025-03-02,B05,SNK004,9,6,no,more flavor options,would buy again
+F00071,2025-01-21,B03,SNK002,7,7,yes,more flavor options,liked the freshness
+F00072,2025-02-02,B03,BEV004,7,6,yes,bundle with drink,good value for money
+F00073,2025-03-29,B05,SNK002,6,6,no,bundle with drink,quick and convenient
+F00074,2025-03-06,B01,SNK001,9,9,yes,better promotion visibility,would buy again
+F00075,2025-03-29,B04,SNK001,6,9,yes,bundle with drink,liked the freshness
+F00076,2025-01-23,B04,BEV003,5,7,no,temperature not right,quality felt inconsistent
+F00077,2025-02-18,B03,SNK004,8,6,yes,keep same quality,quick and convenient
+F00078,2025-03-15,B01,HOU001,7,8,yes,keep same quality,good value for money
+F00079,2025-02-14,B03,BEV004,8,6,yes,bundle with drink,liked the freshness
+F00080,2025-02-04,B02,RTE003,6,6,no,bundle with drink,quick and convenient
+F00081,2025-03-17,B03,HOU001,4,6,maybe,portion too small,branch stock seems unstable
+F00082,2025-03-12,B03,SNK001,5,2,yes,out of stock often,good idea but execution weak
+F00083,2025-03-26,B03,HOU003,5,8,no,too salty,branch stock seems unstable
+F00084,2025-01-13,B06,HOU001,8,7,yes,keep same quality,liked the freshness
+F00085,2025-02-24,B01,RTE002,6,6,no,more flavor options,quick and convenient
+F00086,2025-03-07,B06,RTE002,4,7,maybe,freshness issue,quality felt inconsistent
+F00087,2025-01-08,B04,BEV001,6,7,maybe,keep same quality,liked the freshness
+F00088,2025-03-29,B02,DES002,7,8,yes,bundle with drink,good value for money
+F00089,2025-02-14,B02,DES003,7,5,maybe,keep same quality,quick and convenient
+F00090,2025-01-05,B05,HOU003,8,7,no,more flavor options,quick and convenient
+F00091,2025-03-16,B03,DES003,7,5,maybe,keep same quality,liked the freshness
+F00092,2025-03-03,B02,HOU002,4,6,maybe,packaging damaged,not as fresh as before
+F00093,2025-03-02,B01,SNK001,7,9,yes,keep same quality,liked the freshness
+F00094,2025-03-01,B05,SNK002,5,7,no,packaging damaged,quality felt inconsistent
+F00095,2025-03-27,B01,SNK001,9,5,no,bundle with drink,good value for money
+F00096,2025-02-03,B01,SNK002,8,5,yes,keep same quality,quick and convenient
+F00097,2025-03-21,B03,RTE001,6,5,no,keep same quality,would buy again
+F00098,2025-01-31,B02,BEV003,8,6,no,better promotion visibility,would buy again
+F00099,2025-02-01,B04,RTE004,8,6,yes,better promotion visibility,good value for money
+F00100,2025-01-13,B01,DES002,8,8,yes,bundle with drink,quick and convenient
+F00101,2025-01-17,B06,HOU001,6,8,maybe,keep same quality,good value for money
+F00102,2025-02-20,B06,RTE004,5,4,no,out of stock often,not as fresh as before
+F00103,2025-03-07,B03,DES003,6,6,no,better promotion visibility,liked the freshness
+F00104,2025-02-10,B03,BEV003,7,9,yes,better promotion visibility,liked the freshness
+F00105,2025-01-16,B02,SNK004,9,7,maybe,keep same quality,would buy again
+F00106,2025-02-13,B02,RTE002,8,5,no,keep same quality,liked the freshness
+F00107,2025-01-27,B04,SNK002,8,5,yes,more flavor options,good value for money
+F00108,2025-01-10,B04,HOU003,6,9,yes,bundle with drink,would buy again
+F00109,2025-02-24,B02,DES002,8,8,yes,more flavor options,quick and convenient
+F00110,2025-02-19,B01,RTE002,5,4,yes,packaging damaged,not as fresh as before
+F00111,2025-03-30,B01,BEV004,7,9,yes,keep same quality,would buy again
+F00112,2025-02-25,B05,HOU001,7,5,maybe,bundle with drink,good value for money
+F00113,2025-02-27,B06,SNK003,4,6,maybe,out of stock often,branch stock seems unstable
+F00114,2025-02-16,B06,DES001,7,5,yes,bundle with drink,liked the freshness
+F00115,2025-01-10,B03,HOU002,6,7,no,keep same quality,good value for money
+F00116,2025-01-07,B04,DES001,6,8,no,keep same quality,would buy again
+F00117,2025-02-03,B06,HOU002,7,6,yes,more flavor options,would buy again
+F00118,2025-01-28,B06,RTE001,10,8,maybe,better promotion visibility,liked the freshness
+F00119,2025-02-25,B06,SNK001,6,7,no,keep same quality,would buy again
+F00120,2025-02-03,B06,DES003,8,9,yes,more flavor options,liked the freshness
+F00121,2025-03-11,B05,SNK001,7,3,no,keep same quality,liked the freshness
+F00122,2025-02-12,B06,BEV001,5,8,maybe,packaging damaged,quality felt inconsistent
+F00123,2025-01-18,B03,DES001,8,7,yes,more flavor options,would buy again
+F00124,2025-03-08,B06,SNK002,7,7,maybe,more flavor options,good value for money
+F00125,2025-01-22,B04,BEV003,8,5,yes,better promotion visibility,would buy again
+F00126,2025-01-12,B05,SNK002,8,6,yes,keep same quality,quick and convenient
+F00127,2025-02-19,B06,RTE002,8,7,yes,more flavor options,would buy again
+F00128,2025-03-21,B02,SNK002,8,5,maybe,keep same quality,good value for money
+F00129,2025-03-27,B03,RTE004,8,7,yes,keep same quality,quick and convenient
+F00130,2025-01-07,B06,RTE002,8,7,yes,bundle with drink,would buy again
+F00131,2025-03-19,B06,RTE004,5,5,maybe,out of stock often,not as fresh as before
+F00132,2025-03-18,B01,RTE001,7,5,yes,bundle with drink,would buy again
+F00133,2025-02-21,B01,RTE001,5,4,no,packaging damaged,quality felt inconsistent
+F00134,2025-01-17,B05,DES002,7,4,no,bundle with drink,good value for money
+F00135,2025-01-15,B05,RTE002,8,5,yes,better promotion visibility,liked the freshness
+F00136,2025-03-31,B05,HOU003,9,7,yes,keep same quality,quick and convenient
+F00137,2025-03-15,B01,HOU002,5,8,no,packaging damaged,not as fresh as before
+F00138,2025-03-20,B02,DES003,4,6,maybe,portion too small,branch stock seems unstable
+F00139,2025-03-10,B04,BEV001,8,4,maybe,more flavor options,liked the freshness
+F00140,2025-03-19,B03,SNK002,7,7,yes,better promotion visibility,would buy again
+F00141,2025-01-13,B06,SNK004,8,6,maybe,more flavor options,quick and convenient
+F00142,2025-02-20,B02,HOU001,6,6,no,keep same quality,good value for money
+F00143,2025-01-07,B02,SNK004,6,7,maybe,better promotion visibility,good value for money
+F00144,2025-02-10,B02,HOU002,6,5,yes,keep same quality,would buy again
+F00145,2025-02-19,B06,BEV001,8,6,yes,keep same quality,good value for money
+F00146,2025-01-02,B05,BEV001,5,7,maybe,out of stock often,good idea but execution weak
+F00147,2025-03-07,B04,DES001,6,7,yes,better promotion visibility,liked the freshness
+F00148,2025-01-19,B04,BEV004,6,7,no,keep same quality,good value for money
+F00149,2025-01-24,B02,BEV003,7,6,yes,bundle with drink,quick and convenient
+F00150,2025-01-27,B01,RTE001,6,5,maybe,better promotion visibility,would buy again
+F00151,2025-02-28,B01,BEV002,7,7,yes,more flavor options,liked the freshness
+F00152,2025-03-24,B05,HOU002,9,8,yes,keep same quality,good value for money
+F00153,2025-02-17,B06,SNK002,7,9,yes,better promotion visibility,liked the freshness
+F00154,2025-01-25,B01,DES001,7,6,maybe,better promotion visibility,liked the freshness
+F00155,2025-03-15,B05,BEV004,6,5,maybe,bundle with drink,quick and convenient
+F00156,2025-02-16,B02,HOU003,6,6,no,more flavor options,good value for money
+F00157,2025-01-28,B06,RTE004,9,8,yes,more flavor options,quick and convenient
+F00158,2025-03-25,B02,HOU001,7,4,yes,keep same quality,quick and convenient
+F00159,2025-02-20,B04,RTE003,5,4,no,out of stock often,quality felt inconsistent
+F00160,2025-01-02,B03,SNK004,7,7,no,more flavor options,good value for money
+F00161,2025-01-16,B02,RTE003,7,5,yes,better promotion visibility,quick and convenient
+F00162,2025-01-02,B01,SNK002,6,8,yes,keep same quality,liked the freshness
+F00163,2025-02-21,B06,SNK001,6,6,no,bundle with drink,good value for money
+F00164,2025-02-15,B03,BEV003,5,6,maybe,packaging damaged,quality felt inconsistent
+F00165,2025-03-11,B03,RTE001,5,7,yes,freshness issue,not as fresh as before
+F00166,2025-01-06,B06,BEV002,7,6,yes,keep same quality,liked the freshness
+F00167,2025-01-31,B04,SNK002,6,9,no,better promotion visibility,good value for money
+F00168,2025-01-23,B01,RTE001,9,5,yes,better promotion visibility,would buy again
+F00169,2025-03-17,B03,SNK001,10,8,maybe,keep same quality,good value for money
+F00170,2025-02-25,B06,BEV003,6,7,no,keep same quality,would buy again
+F00171,2025-01-27,B05,RTE003,7,8,yes,better promotion visibility,quick and convenient
+F00172,2025-01-17,B03,SNK001,6,7,yes,keep same quality,liked the freshness
+F00173,2025-01-18,B04,DES001,9,7,maybe,better promotion visibility,quick and convenient
+F00174,2025-01-10,B06,DES003,7,6,maybe,better promotion visibility,liked the freshness
+F00175,2025-02-24,B05,SNK002,8,4,yes,better promotion visibility,liked the freshness
+F00176,2025-02-05,B04,BEV003,6,7,no,more flavor options,liked the freshness
+F00177,2025-02-18,B06,RTE001,5,5,no,out of stock often,branch stock seems unstable
+F00178,2025-01-28,B02,RTE003,8,7,yes,bundle with drink,quick and convenient
+F00179,2025-01-24,B01,SNK001,7,7,yes,bundle with drink,liked the freshness
+F00180,2025-01-05,B01,BEV004,7,7,yes,better promotion visibility,good value for money
+F00181,2025-02-17,B02,SNK001,8,6,no,bundle with drink,good value for money
+F00182,2025-03-05,B02,BEV003,5,10,no,too salty,branch stock seems unstable
+F00183,2025-03-15,B05,RTE001,8,5,no,more flavor options,would buy again
+F00184,2025-02-12,B04,SNK003,6,7,no,bundle with drink,good value for money
+F00185,2025-01-21,B05,RTE004,6,6,yes,keep same quality,good value for money
+F00186,2025-03-17,B03,SNK003,7,8,yes,better promotion visibility,liked the freshness
+F00187,2025-02-25,B06,SNK002,9,7,yes,better promotion visibility,quick and convenient
+F00188,2025-01-25,B05,DES003,8,5,maybe,keep same quality,would buy again
+F00189,2025-01-01,B03,HOU003,7,6,yes,more flavor options,quick and convenient
+F00190,2025-02-16,B04,DES001,7,5,yes,bundle with drink,quick and convenient
+F00191,2025-03-29,B05,SNK001,5,6,yes,too salty,quality felt inconsistent
+F00192,2025-01-25,B02,RTE001,8,8,yes,keep same quality,good value for money
+F00193,2025-03-28,B01,SNK003,5,9,no,packaging damaged,branch stock seems unstable
+F00194,2025-02-04,B02,BEV003,7,5,no,bundle with drink,would buy again
+F00195,2025-02-05,B06,HOU001,6,6,no,bundle with drink,liked the freshness
+F00196,2025-01-13,B03,DES003,5,3,no,packaging damaged,quality felt inconsistent
+F00197,2025-03-29,B03,DES001,5,6,no,too salty,not as fresh as before
+F00198,2025-01-30,B06,HOU003,5,6,yes,freshness issue,good idea but execution weak
+F00199,2025-01-06,B02,DES002,7,4,maybe,keep same quality,good value for money
+F00200,2025-03-13,B05,SNK001,8,5,yes,more flavor options,liked the freshness
+F00201,2025-01-06,B06,BEV003,10,8,maybe,bundle with drink,would buy again
+F00202,2025-02-07,B04,RTE004,6,7,no,better promotion visibility,quick and convenient
+F00203,2025-01-16,B02,RTE001,8,6,no,bundle with drink,would buy again
+F00204,2025-03-26,B06,BEV001,7,5,yes,better promotion visibility,quick and convenient
+F00205,2025-02-27,B06,RTE002,7,10,maybe,better promotion visibility,quick and convenient
+F00206,2025-03-04,B03,SNK002,5,5,maybe,freshness issue,good idea but execution weak
+F00207,2025-01-27,B05,BEV002,8,7,yes,more flavor options,would buy again
+F00208,2025-02-28,B03,RTE003,4,7,maybe,freshness issue,good idea but execution weak
+F00209,2025-03-25,B02,RTE002,7,7,yes,keep same quality,quick and convenient
+F00210,2025-03-24,B02,BEV004,7,7,maybe,keep same quality,good value for money
+F00211,2025-01-11,B02,BEV004,5,8,no,out of stock often,branch stock seems unstable
+F00212,2025-02-11,B04,BEV004,7,6,no,more flavor options,quick and convenient
+F00213,2025-02-06,B02,HOU002,7,6,yes,better promotion visibility,good value for money
+F00214,2025-02-12,B06,HOU003,8,7,yes,more flavor options,good value for money
+F00215,2025-01-19,B02,DES001,9,4,maybe,bundle with drink,quick and convenient
+F00216,2025-01-08,B04,RTE003,8,6,yes,more flavor options,would buy again
+F00217,2025-02-02,B05,HOU003,7,8,yes,more flavor options,would buy again
+F00218,2025-03-01,B02,SNK001,5,8,yes,temperature not right,branch stock seems unstable
+F00219,2025-03-22,B01,RTE003,6,6,no,better promotion visibility,quick and convenient
+F00220,2025-02-04,B04,RTE001,8,6,maybe,better promotion visibility,liked the freshness
+F00221,2025-01-26,B02,HOU001,8,9,yes,keep same quality,good value for money
+F00222,2025-02-07,B06,RTE002,8,3,yes,more flavor options,quick and convenient
+F00223,2025-03-08,B01,RTE004,6,4,no,keep same quality,quick and convenient
+F00224,2025-03-09,B06,BEV003,6,5,no,keep same quality,quick and convenient
+F00225,2025-02-10,B05,BEV002,5,8,yes,packaging damaged,quality felt inconsistent
+F00226,2025-02-03,B02,HOU002,8,8,maybe,better promotion visibility,quick and convenient
+F00227,2025-01-18,B05,SNK002,7,6,yes,keep same quality,would buy again
+F00228,2025-01-07,B01,HOU003,7,8,no,bundle with drink,liked the freshness
+F00229,2025-02-24,B01,SNK004,8,9,maybe,better promotion visibility,liked the freshness
+F00230,2025-02-19,B06,DES001,6,6,no,better promotion visibility,liked the freshness
+F00231,2025-03-22,B06,SNK004,9,8,yes,better promotion visibility,quick and convenient
+F00232,2025-01-21,B04,BEV001,6,9,maybe,more flavor options,would buy again
+F00233,2025-01-11,B01,DES001,5,7,no,out of stock often,good idea but execution weak
+F00234,2025-03-11,B02,RTE003,6,7,no,bundle with drink,would buy again
+F00235,2025-01-09,B01,SNK002,8,6,maybe,more flavor options,good value for money
+F00236,2025-02-18,B04,BEV002,7,8,yes,bundle with drink,would buy again
+F00237,2025-02-25,B03,SNK003,10,7,yes,better promotion visibility,liked the freshness
+F00238,2025-01-30,B03,BEV004,4,7,maybe,freshness issue,quality felt inconsistent
+F00239,2025-02-22,B01,BEV002,6,5,yes,keep same quality,liked the freshness
+F00240,2025-03-24,B03,SNK001,6,7,no,keep same quality,quick and convenient
+F00241,2025-02-03,B04,BEV001,8,8,maybe,more flavor options,good value for money
+F00242,2025-02-05,B06,SNK004,6,4,maybe,more flavor options,good value for money
+F00243,2025-01-26,B05,RTE003,7,6,no,more flavor options,quick and convenient
+F00244,2025-01-03,B03,BEV002,8,7,yes,more flavor options,quick and convenient
+F00245,2025-01-10,B05,BEV003,6,6,no,bundle with drink,liked the freshness
+F00246,2025-01-09,B01,RTE004,7,8,yes,better promotion visibility,quick and convenient
+F00247,2025-01-16,B06,BEV001,9,5,no,more flavor options,quick and convenient
+F00248,2025-03-25,B01,BEV004,5,6,no,portion too small,branch stock seems unstable
+F00249,2025-03-06,B04,HOU003,6,5,yes,keep same quality,quick and convenient
+F00250,2025-01-30,B01,BEV003,5,8,yes,freshness issue,good idea but execution weak
+F00251,2025-01-10,B03,RTE001,8,7,maybe,more flavor options,quick and convenient
+F00252,2025-01-23,B02,RTE002,8,7,yes,bundle with drink,liked the freshness
+F00253,2025-02-19,B06,BEV002,6,9,yes,better promotion visibility,quick and convenient
+F00254,2025-03-23,B02,SNK001,8,3,yes,bundle with drink,quick and convenient
+F00255,2025-01-14,B01,SNK002,8,10,yes,better promotion visibility,quick and convenient
+F00256,2025-03-08,B03,DES002,5,10,yes,packaging damaged,good idea but execution weak
+F00257,2025-01-25,B05,BEV004,7,8,yes,more flavor options,would buy again
+F00258,2025-01-08,B02,SNK001,9,8,maybe,bundle with drink,liked the freshness
+F00259,2025-01-21,B05,BEV001,6,8,maybe,better promotion visibility,liked the freshness
+F00260,2025-01-28,B04,BEV001,6,6,no,better promotion visibility,liked the freshness
+F00261,2025-02-17,B01,HOU001,7,5,yes,more flavor options,good value for money
+F00262,2025-01-20,B05,BEV003,8,7,yes,keep same quality,good value for money
+F00263,2025-03-03,B01,DES001,6,7,yes,more flavor options,would buy again
+F00264,2025-03-18,B04,SNK004,9,5,yes,more flavor options,liked the freshness
+F00265,2025-02-07,B02,BEV001,6,6,no,better promotion visibility,would buy again
+F00266,2025-03-27,B05,BEV002,6,5,no,bundle with drink,good value for money
+F00267,2025-02-07,B05,DES001,7,6,yes,better promotion visibility,liked the freshness
+F00268,2025-03-04,B04,RTE001,5,5,no,packaging damaged,not as fresh as before
+F00269,2025-01-10,B04,BEV004,8,6,yes,better promotion visibility,quick and convenient
+F00270,2025-01-11,B06,BEV004,5,1,no,freshness issue,quality felt inconsistent
+F00271,2025-01-14,B06,BEV003,8,8,yes,more flavor options,quick and convenient
+F00272,2025-03-22,B02,DES002,8,5,yes,better promotion visibility,would buy again
+F00273,2025-01-12,B04,RTE001,7,8,yes,bundle with drink,good value for money
+F00274,2025-01-17,B05,DES003,7,7,yes,better promotion visibility,liked the freshness
+F00275,2025-02-15,B05,DES001,5,6,no,freshness issue,quality felt inconsistent
+F00276,2025-02-03,B05,BEV003,6,7,yes,bundle with drink,good value for money
+F00277,2025-03-06,B01,RTE004,9,9,yes,bundle with drink,good value for money
+F00278,2025-01-01,B03,DES002,10,8,yes,bundle with drink,good value for money
+F00279,2025-02-19,B04,RTE001,5,6,no,freshness issue,good idea but execution weak
+F00280,2025-02-19,B04,HOU003,5,4,yes,temperature not right,branch stock seems unstable
+F00281,2025-02-12,B06,SNK002,6,4,no,keep same quality,liked the freshness
+F00282,2025-03-10,B05,SNK001,7,5,maybe,bundle with drink,liked the freshness
+F00283,2025-01-11,B05,HOU003,6,7,no,keep same quality,would buy again
+F00284,2025-03-08,B05,SNK002,6,6,no,bundle with drink,quick and convenient
+F00285,2025-01-05,B06,RTE002,7,7,yes,bundle with drink,would buy again
+F00286,2025-01-25,B06,DES003,8,6,yes,keep same quality,quick and convenient
+F00287,2025-03-28,B03,RTE004,4,5,no,too salty,branch stock seems unstable
+F00288,2025-01-04,B02,SNK003,7,7,no,bundle with drink,good value for money
+F00289,2025-01-03,B05,HOU003,8,8,yes,bundle with drink,would buy again
+F00290,2025-01-28,B06,HOU001,8,8,no,more flavor options,good value for money
+F00291,2025-02-26,B04,HOU002,6,6,yes,more flavor options,good value for money
+F00292,2025-01-22,B05,SNK003,6,8,maybe,more flavor options,liked the freshness
+F00293,2025-01-23,B01,SNK001,8,9,maybe,bundle with drink,good value for money
+F00294,2025-03-06,B06,RTE004,4,8,no,out of stock often,branch stock seems unstable
+F00295,2025-03-01,B06,DES001,9,6,yes,more flavor options,would buy again
+F00296,2025-02-16,B04,DES001,7,4,maybe,keep same quality,good value for money
+F00297,2025-03-19,B06,HOU001,6,7,no,more flavor options,liked the freshness
+F00298,2025-02-09,B01,BEV001,9,7,yes,keep same quality,liked the freshness
+F00299,2025-03-16,B01,SNK004,7,8,no,better promotion visibility,quick and convenient
+F00300,2025-03-10,B04,RTE001,5,6,no,out of stock often,not as fresh as before
+F00301,2025-02-13,B01,BEV001,7,8,maybe,bundle with drink,good value for money
+F00302,2025-03-16,B04,SNK003,7,6,maybe,more flavor options,liked the freshness
+F00303,2025-03-15,B02,RTE001,8,4,maybe,more flavor options,would buy again
+F00304,2025-03-29,B03,SNK003,5,4,maybe,too salty,branch stock seems unstable
+F00305,2025-02-17,B06,SNK004,6,7,no,keep same quality,would buy again
+F00306,2025-02-09,B05,BEV003,8,6,no,more flavor options,liked the freshness
+F00307,2025-02-11,B06,HOU001,9,5,maybe,keep same quality,quick and convenient
+F00308,2025-01-05,B04,DES001,6,8,no,bundle with drink,quick and convenient
+F00309,2025-03-24,B05,SNK003,5,6,yes,packaging damaged,not as fresh as before
+F00310,2025-02-17,B05,HOU001,6,6,no,bundle with drink,would buy again
+F00311,2025-01-20,B03,DES003,8,6,no,more flavor options,would buy again
+F00312,2025-02-14,B02,BEV003,4,6,no,portion too small,branch stock seems unstable
+F00313,2025-02-02,B02,RTE003,6,8,no,keep same quality,quick and convenient
+F00314,2025-03-07,B03,RTE002,8,7,yes,better promotion visibility,quick and convenient
+F00315,2025-03-06,B01,DES001,5,6,no,packaging damaged,quality felt inconsistent
+F00316,2025-01-11,B02,SNK004,7,6,yes,bundle with drink,quick and convenient
+F00317,2025-03-22,B04,DES003,7,7,yes,keep same quality,liked the freshness
+F00318,2025-02-22,B03,DES001,7,6,yes,better promotion visibility,liked the freshness
+F00319,2025-01-05,B01,RTE004,6,4,no,bundle with drink,would buy again
+F00320,2025-03-10,B03,BEV004,5,9,no,too salty,branch stock seems unstable
+F00321,2025-02-13,B01,BEV001,6,6,no,more flavor options,good value for money
+F00322,2025-02-25,B05,BEV003,5,8,maybe,out of stock often,branch stock seems unstable
+F00323,2025-02-14,B01,RTE001,7,6,maybe,more flavor options,would buy again
+F00324,2025-03-08,B01,RTE001,5,3,maybe,too salty,branch stock seems unstable
+F00325,2025-01-23,B02,BEV004,4,6,maybe,temperature not right,good idea but execution weak
+F00326,2025-01-17,B05,RTE002,7,7,maybe,more flavor options,would buy again
+F00327,2025-02-20,B06,SNK003,7,7,maybe,bundle with drink,good value for money
+F00328,2025-03-06,B06,DES001,5,6,no,freshness issue,not as fresh as before
+F00329,2025-02-12,B03,SNK004,8,7,yes,better promotion visibility,good value for money
+F00330,2025-02-25,B01,HOU001,6,5,yes,keep same quality,quick and convenient
+F00331,2025-03-14,B04,HOU002,4,6,no,packaging damaged,good idea but execution weak
+F00332,2025-02-13,B01,BEV001,4,5,no,too salty,good idea but execution weak
+F00333,2025-02-06,B01,DES001,9,7,yes,better promotion visibility,would buy again
+F00334,2025-03-28,B05,SNK003,9,5,no,better promotion visibility,liked the freshness
+F00335,2025-03-02,B03,SNK002,6,8,no,better promotion visibility,liked the freshness
+F00336,2025-03-23,B05,RTE003,7,4,maybe,more flavor options,good value for money
+F00337,2025-02-25,B02,HOU001,4,6,yes,too salty,branch stock seems unstable
+F00338,2025-01-30,B03,BEV001,9,7,maybe,keep same quality,quick and convenient
+F00339,2025-03-29,B04,RTE002,5,7,no,freshness issue,good idea but execution weak
+F00340,2025-01-22,B06,DES002,5,8,no,too salty,not as fresh as before
+F00341,2025-02-22,B06,SNK004,5,5,no,packaging damaged,good idea but execution weak
+F00342,2025-03-13,B05,RTE002,6,4,no,bundle with drink,good value for money
+F00343,2025-01-18,B02,DES003,6,9,no,bundle with drink,good value for money
+F00344,2025-01-17,B04,SNK001,5,7,maybe,temperature not right,quality felt inconsistent
+F00345,2025-03-19,B06,DES001,8,7,maybe,bundle with drink,would buy again
+F00346,2025-02-25,B04,BEV003,7,6,yes,more flavor options,quick and convenient
+F00347,2025-02-13,B06,BEV002,9,9,maybe,keep same quality,quick and convenient
+F00348,2025-02-12,B01,BEV002,7,7,yes,more flavor options,good value for money
+F00349,2025-01-01,B05,RTE003,7,5,yes,bundle with drink,good value for money
+F00350,2025-01-25,B05,HOU002,7,8,no,more flavor options,would buy again
+F00351,2025-01-19,B04,RTE004,8,7,no,better promotion visibility,good value for money
+F00352,2025-02-06,B05,SNK003,5,6,no,out of stock often,quality felt inconsistent
+F00353,2025-03-16,B04,HOU002,6,8,maybe,better promotion visibility,liked the freshness
+F00354,2025-03-27,B05,HOU002,6,6,yes,bundle with drink,would buy again
+F00355,2025-01-05,B06,RTE004,5,7,yes,temperature not right,good idea but execution weak
+F00356,2025-01-01,B01,RTE003,9,5,maybe,better promotion visibility,good value for money
+F00357,2025-01-27,B04,BEV001,6,8,maybe,bundle with drink,would buy again
+F00358,2025-01-06,B03,BEV003,6,6,no,bundle with drink,would buy again
+F00359,2025-02-03,B05,RTE003,10,6,yes,keep same quality,quick and convenient
+F00360,2025-02-06,B02,BEV003,8,8,yes,more flavor options,would buy again
+F00361,2025-02-24,B02,BEV002,8,10,maybe,better promotion visibility,quick and convenient
+F00362,2025-01-29,B04,RTE001,5,5,yes,too salty,quality felt inconsistent
+F00363,2025-02-16,B06,DES003,9,9,yes,better promotion visibility,would buy again
+F00364,2025-01-22,B04,SNK004,7,6,maybe,better promotion visibility,would buy again
+F00365,2025-02-13,B01,BEV004,7,7,yes,better promotion visibility,good value for money
+F00366,2025-01-14,B03,HOU003,7,10,yes,keep same quality,quick and convenient
+F00367,2025-03-13,B01,RTE003,7,5,maybe,more flavor options,would buy again
+F00368,2025-01-24,B03,SNK001,6,6,no,keep same quality,liked the freshness
+F00369,2025-03-24,B02,DES003,8,5,yes,better promotion visibility,liked the freshness
+F00370,2025-02-26,B03,HOU001,10,6,maybe,keep same quality,liked the freshness
+F00371,2025-01-22,B04,RTE001,7,7,yes,bundle with drink,good value for money
+F00372,2025-01-27,B03,BEV001,5,5,no,temperature not right,branch stock seems unstable
+F00373,2025-02-24,B03,SNK001,6,8,maybe,bundle with drink,liked the freshness
+F00374,2025-03-22,B03,SNK001,5,8,no,out of stock often,quality felt inconsistent
+F00375,2025-02-05,B05,DES001,10,4,no,keep same quality,liked the freshness
+F00376,2025-03-17,B06,BEV004,4,4,no,temperature not right,quality felt inconsistent
+F00377,2025-03-21,B04,RTE001,7,3,yes,keep same quality,quick and convenient
+F00378,2025-02-11,B02,SNK001,6,4,yes,keep same quality,quick and convenient
+F00379,2025-01-21,B03,RTE004,7,8,yes,better promotion visibility,would buy again
+F00380,2025-02-01,B03,RTE001,8,7,yes,better promotion visibility,would buy again
+F00381,2025-01-16,B02,BEV003,8,6,yes,keep same quality,good value for money
+F00382,2025-02-08,B01,HOU003,6,9,maybe,bundle with drink,quick and convenient
+F00383,2025-03-07,B05,BEV004,7,8,yes,bundle with drink,liked the freshness
+F00384,2025-03-03,B03,HOU003,5,6,yes,out of stock often,not as fresh as before
+F00385,2025-03-21,B02,HOU002,5,5,yes,temperature not right,branch stock seems unstable
+F00386,2025-02-15,B03,RTE002,4,6,no,temperature not right,not as fresh as before
+F00387,2025-02-24,B06,SNK002,6,5,no,more flavor options,would buy again
+F00388,2025-03-19,B01,HOU001,7,6,yes,keep same quality,good value for money
+F00389,2025-01-03,B02,RTE004,8,9,yes,keep same quality,good value for money
+F00390,2025-02-27,B04,RTE004,5,8,maybe,too salty,branch stock seems unstable
+F00391,2025-02-06,B06,HOU001,6,7,maybe,better promotion visibility,quick and convenient
+F00392,2025-02-11,B03,DES003,8,4,yes,more flavor options,good value for money
+F00393,2025-02-07,B06,SNK003,5,9,no,packaging damaged,branch stock seems unstable
+F00394,2025-01-15,B03,BEV003,7,9,maybe,bundle with drink,liked the freshness
+F00395,2025-02-18,B01,DES002,7,4,maybe,more flavor options,good value for money
+F00396,2025-02-03,B03,BEV001,9,4,yes,keep same quality,liked the freshness
+F00397,2025-01-27,B05,RTE003,7,5,yes,better promotion visibility,quick and convenient
+F00398,2025-02-22,B05,HOU003,5,9,no,out of stock often,branch stock seems unstable
+F00399,2025-03-20,B04,BEV003,6,7,maybe,more flavor options,would buy again
+F00400,2025-02-18,B03,BEV004,8,7,maybe,more flavor options,good value for money
+F00401,2025-03-09,B04,RTE004,6,4,no,more flavor options,liked the freshness
+F00402,2025-01-25,B05,BEV003,6,8,yes,better promotion visibility,quick and convenient
+F00403,2025-01-18,B05,BEV001,6,8,yes,better promotion visibility,good value for money
+F00404,2025-03-29,B06,RTE003,5,7,maybe,portion too small,quality felt inconsistent
+F00405,2025-01-06,B04,DES003,7,6,maybe,keep same quality,would buy again
+F00406,2025-03-13,B01,DES001,7,5,no,more flavor options,would buy again
+F00407,2025-02-06,B05,DES003,8,9,yes,bundle with drink,quick and convenient
+F00408,2025-03-02,B05,HOU001,7,7,no,better promotion visibility,would buy again
+F00409,2025-03-30,B01,BEV002,7,4,yes,bundle with drink,good value for money
+F00410,2025-01-15,B06,HOU002,7,7,maybe,bundle with drink,would buy again
+F00411,2025-03-30,B05,BEV001,6,6,no,better promotion visibility,would buy again
+F00412,2025-02-12,B03,RTE003,6,7,maybe,bundle with drink,quick and convenient
+F00413,2025-02-24,B05,BEV001,4,5,no,packaging damaged,not as fresh as before
+F00414,2025-01-30,B06,SNK004,7,8,yes,bundle with drink,good value for money
+F00415,2025-02-18,B05,RTE002,7,8,no,more flavor options,good value for money
+F00416,2025-03-19,B06,HOU002,6,6,no,better promotion visibility,liked the freshness
+F00417,2025-02-06,B03,DES001,7,9,maybe,keep same quality,liked the freshness
+F00418,2025-01-24,B06,RTE004,8,5,yes,keep same quality,good value for money
+F00419,2025-02-17,B02,DES002,8,6,yes,better promotion visibility,would buy again
+F00420,2025-01-22,B03,RTE004,8,7,yes,more flavor options,good value for money
+F00421,2025-02-17,B05,HOU003,8,8,maybe,keep same quality,liked the freshness
+F00422,2025-03-21,B04,DES003,6,9,no,keep same quality,quick and convenient
+F00423,2025-03-06,B05,HOU002,9,5,yes,bundle with drink,would buy again
+F00424,2025-02-27,B03,RTE002,6,7,yes,more flavor options,would buy again
+F00425,2025-02-13,B06,SNK004,7,5,maybe,bundle with drink,quick and convenient
+F00426,2025-02-14,B04,BEV003,7,6,yes,keep same quality,good value for money
+F00427,2025-03-19,B02,DES001,8,6,no,keep same quality,liked the freshness
+F00428,2025-01-17,B01,RTE004,9,5,maybe,better promotion visibility,would buy again
+F00429,2025-01-21,B04,SNK003,6,6,no,more flavor options,good value for money
+F00430,2025-03-24,B05,SNK004,7,8,maybe,better promotion visibility,quick and convenient
+F00431,2025-02-22,B05,SNK004,5,6,no,out of stock often,quality felt inconsistent
+F00432,2025-01-15,B05,SNK004,5,7,no,out of stock often,good idea but execution weak
+F00433,2025-03-28,B02,SNK001,8,8,yes,better promotion visibility,would buy again
+F00434,2025-02-18,B06,RTE001,10,8,no,more flavor options,good value for money
+F00435,2025-03-18,B06,SNK001,7,7,yes,better promotion visibility,quick and convenient
+F00436,2025-03-17,B01,SNK002,7,6,yes,better promotion visibility,liked the freshness
+F00437,2025-03-08,B01,SNK002,5,9,maybe,temperature not right,not as fresh as before
+F00438,2025-01-16,B04,DES002,5,7,no,temperature not right,branch stock seems unstable
+F00439,2025-01-06,B05,BEV001,7,4,maybe,bundle with drink,quick and convenient
+F00440,2025-02-18,B04,HOU001,7,6,no,more flavor options,good value for money
+F00441,2025-01-21,B04,RTE003,5,6,no,too salty,good idea but execution weak
+F00442,2025-01-29,B02,BEV004,5,6,yes,portion too small,quality felt inconsistent
+F00443,2025-02-19,B01,HOU003,7,7,yes,bundle with drink,good value for money
+F00444,2025-03-15,B02,DES001,5,6,no,packaging damaged,not as fresh as before
+F00445,2025-02-08,B04,DES002,9,7,yes,better promotion visibility,would buy again
+F00446,2025-03-21,B05,SNK001,6,8,no,keep same quality,quick and convenient
+F00447,2025-03-20,B02,RTE001,7,6,yes,bundle with drink,quick and convenient
+F00448,2025-02-19,B03,SNK002,6,6,no,more flavor options,quick and convenient
+F00449,2025-02-20,B04,RTE003,7,7,maybe,keep same quality,good value for money
+F00450,2025-03-25,B03,SNK003,6,6,yes,bundle with drink,quick and convenient
+F00451,2025-01-16,B05,RTE001,9,7,yes,keep same quality,good value for money
+F00452,2025-02-12,B06,RTE003,7,7,yes,keep same quality,good value for money
+F00453,2025-01-21,B02,DES001,9,5,maybe,better promotion visibility,quick and convenient
+F00454,2025-03-14,B06,BEV004,8,8,yes,more flavor options,liked the freshness
+F00455,2025-02-20,B03,SNK003,6,5,yes,more flavor options,good value for money
+F00456,2025-03-12,B02,DES003,6,5,yes,keep same quality,liked the freshness
+F00457,2025-01-13,B04,DES001,8,7,maybe,bundle with drink,liked the freshness
+F00458,2025-03-04,B03,BEV004,7,7,no,keep same quality,would buy again
+F00459,2025-03-31,B06,HOU003,7,8,maybe,bundle with drink,would buy again
+F00460,2025-03-27,B05,HOU001,6,4,no,better promotion visibility,quick and convenient
+F00461,2025-02-04,B01,BEV004,7,8,maybe,bundle with drink,quick and convenient
+F00462,2025-03-20,B04,DES001,8,6,yes,bundle with drink,good value for money
+F00463,2025-03-01,B04,HOU001,7,7,yes,keep same quality,would buy again
+F00464,2025-02-17,B04,RTE003,8,6,no,better promotion visibility,quick and convenient
+F00465,2025-01-27,B06,RTE004,6,5,yes,more flavor options,would buy again
+F00466,2025-03-27,B03,BEV004,4,7,no,portion too small,branch stock seems unstable
+F00467,2025-01-27,B03,RTE002,8,9,yes,more flavor options,good value for money
+F00468,2025-01-26,B01,BEV002,5,5,yes,freshness issue,branch stock seems unstable
+F00469,2025-03-08,B03,DES002,6,7,maybe,bundle with drink,would buy again
+F00470,2025-03-18,B03,DES002,5,7,no,too salty,quality felt inconsistent
+F00471,2025-01-16,B01,HOU001,7,7,yes,keep same quality,would buy again
+F00472,2025-02-05,B03,DES001,2,6,no,packaging damaged,not as fresh as before
+F00473,2025-01-07,B02,BEV003,6,4,no,better promotion visibility,quick and convenient
+F00474,2025-03-13,B06,SNK001,5,8,no,packaging damaged,good idea but execution weak
+F00475,2025-03-22,B05,SNK002,6,2,no,bundle with drink,good value for money
+F00476,2025-01-28,B04,RTE004,5,7,maybe,out of stock often,good idea but execution weak
+F00477,2025-01-05,B01,HOU002,8,7,yes,more flavor options,liked the freshness
+F00478,2025-02-28,B06,SNK002,7,8,no,better promotion visibility,would buy again
+F00479,2025-02-26,B01,SNK002,8,6,maybe,keep same quality,quick and convenient
+F00480,2025-02-09,B01,HOU003,7,5,yes,more flavor options,liked the freshness
+F00481,2025-01-05,B05,BEV001,7,6,maybe,more flavor options,would buy again
+F00482,2025-01-31,B01,DES002,7,5,maybe,keep same quality,would buy again
+F00483,2025-01-06,B03,SNK002,7,7,yes,more flavor options,would buy again
+F00484,2025-03-17,B04,RTE002,6,7,no,keep same quality,good value for money
+F00485,2025-02-18,B06,DES002,8,7,yes,keep same quality,would buy again
+F00486,2025-02-21,B06,HOU002,6,6,maybe,more flavor options,good value for money
+F00487,2025-03-21,B01,SNK001,6,9,maybe,more flavor options,good value for money
+F00488,2025-01-24,B06,SNK002,9,6,yes,keep same quality,would buy again
+F00489,2025-02-01,B04,BEV001,8,8,yes,bundle with drink,would buy again
+F00490,2025-02-01,B04,BEV003,6,3,no,more flavor options,good value for money
+F00491,2025-02-17,B04,HOU001,6,10,no,keep same quality,liked the freshness
+F00492,2025-02-04,B02,DES002,7,6,maybe,bundle with drink,liked the freshness
+F00493,2025-03-30,B04,RTE003,7,5,yes,bundle with drink,quick and convenient
+F00494,2025-03-03,B02,DES003,5,10,maybe,freshness issue,good idea but execution weak
+F00495,2025-03-14,B04,BEV001,6,7,maybe,keep same quality,would buy again
+F00496,2025-01-02,B01,SNK002,6,5,no,keep same quality,quick and convenient
+F00497,2025-02-10,B01,SNK004,7,6,maybe,bundle with drink,quick and convenient
+F00498,2025-03-08,B01,DES001,5,3,maybe,freshness issue,not as fresh as before
+F00499,2025-02-02,B05,SNK002,10,9,maybe,keep same quality,quick and convenient
+F00500,2025-03-16,B06,BEV003,6,8,no,better promotion visibility,quick and convenient
+F00501,2025-03-05,B03,RTE002,6,7,yes,more flavor options,would buy again
+F00502,2025-02-26,B05,HOU003,8,7,yes,bundle with drink,would buy again
+F00503,2025-01-18,B04,SNK001,5,5,no,temperature not right,good idea but execution weak
+F00504,2025-01-21,B02,RTE002,7,5,yes,bundle with drink,would buy again
+F00505,2025-02-11,B01,DES003,8,5,yes,better promotion visibility,liked the freshness
+F00506,2025-01-28,B04,BEV001,6,3,maybe,more flavor options,quick and convenient
+F00507,2025-03-01,B05,DES002,7,6,yes,better promotion visibility,liked the freshness
+F00508,2025-03-19,B03,BEV003,6,9,yes,keep same quality,quick and convenient
+F00509,2025-03-17,B04,SNK002,4,8,no,too salty,not as fresh as before
+F00510,2025-02-17,B06,HOU001,8,7,yes,bundle with drink,quick and convenient
+F00511,2025-03-07,B01,BEV002,8,5,no,keep same quality,would buy again
+F00512,2025-01-15,B05,SNK001,5,9,no,out of stock often,not as fresh as before
+F00513,2025-02-11,B03,RTE002,7,6,yes,bundle with drink,would buy again
+F00514,2025-03-04,B05,RTE004,8,7,yes,better promotion visibility,would buy again
+F00515,2025-02-19,B04,DES001,8,6,yes,bundle with drink,liked the freshness
+F00516,2025-02-21,B03,HOU003,7,8,yes,more flavor options,quick and convenient
+F00517,2025-03-11,B06,BEV004,6,6,maybe,more flavor options,good value for money
+F00518,2025-02-06,B05,HOU001,8,9,yes,more flavor options,would buy again
+F00519,2025-01-21,B06,HOU002,8,6,yes,more flavor options,quick and convenient
+F00520,2025-01-26,B04,HOU002,4,6,no,freshness issue,good idea but execution weak
+F00521,2025-01-20,B04,SNK003,7,4,maybe,better promotion visibility,quick and convenient
+F00522,2025-03-10,B01,HOU003,7,6,yes,keep same quality,would buy again
+F00523,2025-01-02,B06,BEV001,9,8,yes,keep same quality,would buy again
+F00524,2025-03-26,B03,HOU002,6,4,yes,better promotion visibility,quick and convenient
+F00525,2025-03-25,B02,BEV003,5,8,yes,freshness issue,not as fresh as before
+F00526,2025-02-02,B03,BEV003,7,5,yes,keep same quality,would buy again
+F00527,2025-01-26,B02,RTE001,6,7,maybe,keep same quality,quick and convenient
+F00528,2025-01-03,B06,HOU001,8,6,yes,better promotion visibility,would buy again
+F00529,2025-02-23,B02,BEV004,7,6,yes,keep same quality,good value for money
+F00530,2025-03-17,B06,HOU002,8,9,yes,bundle with drink,quick and convenient
+F00531,2025-01-24,B02,SNK002,7,2,yes,more flavor options,quick and convenient
+F00532,2025-01-22,B02,HOU002,5,10,no,out of stock often,quality felt inconsistent
+F00533,2025-02-24,B01,SNK003,7,7,yes,bundle with drink,quick and convenient
+F00534,2025-01-28,B02,BEV001,5,9,yes,out of stock often,quality felt inconsistent
+F00535,2025-03-26,B05,RTE003,9,6,yes,bundle with drink,liked the freshness
+F00536,2025-03-26,B02,SNK003,8,4,yes,bundle with drink,quick and convenient
+F00537,2025-03-26,B04,RTE004,4,7,no,freshness issue,good idea but execution weak
+F00538,2025-01-04,B03,SNK004,8,8,yes,bundle with drink,good value for money
+F00539,2025-01-09,B04,SNK002,7,10,yes,keep same quality,would buy again
+F00540,2025-03-10,B03,HOU002,4,9,yes,out of stock often,quality felt inconsistent
+F00541,2025-03-02,B01,HOU001,9,5,yes,more flavor options,quick and convenient
+F00542,2025-03-26,B02,RTE003,6,5,no,more flavor options,quick and convenient
+F00543,2025-01-21,B06,SNK001,6,8,yes,more flavor options,quick and convenient
+F00544,2025-01-11,B04,BEV002,6,6,yes,keep same quality,liked the freshness
+F00545,2025-02-20,B05,RTE004,9,5,maybe,better promotion visibility,good value for money
+F00546,2025-02-16,B04,SNK004,5,7,no,freshness issue,not as fresh as before
+F00547,2025-03-21,B01,DES001,7,7,yes,keep same quality,liked the freshness
+F00548,2025-03-24,B05,HOU003,7,5,maybe,more flavor options,liked the freshness
+F00549,2025-01-23,B03,RTE002,7,8,yes,bundle with drink,quick and convenient
+F00550,2025-02-05,B05,RTE001,8,4,yes,more flavor options,good value for money
+F00551,2025-01-22,B03,BEV002,8,10,yes,better promotion visibility,would buy again
+F00552,2025-02-05,B03,SNK002,8,6,maybe,more flavor options,good value for money
+F00553,2025-01-01,B06,RTE003,8,3,yes,bundle with drink,liked the freshness
+F00554,2025-01-31,B05,HOU003,6,5,yes,better promotion visibility,would buy again
+F00555,2025-03-12,B05,HOU003,8,4,maybe,better promotion visibility,liked the freshness
+F00556,2025-02-20,B04,RTE001,6,6,yes,bundle with drink,quick and convenient
+F00557,2025-03-09,B04,RTE001,7,9,yes,keep same quality,liked the freshness
+F00558,2025-03-17,B02,HOU003,9,5,yes,bundle with drink,good value for money
+F00559,2025-01-07,B04,RTE002,6,4,maybe,better promotion visibility,liked the freshness
+F00560,2025-03-09,B02,HOU002,9,9,maybe,more flavor options,liked the freshness
+F00561,2025-02-24,B04,RTE004,7,7,yes,bundle with drink,good value for money
+F00562,2025-02-08,B04,RTE004,9,8,no,bundle with drink,quick and convenient
+F00563,2025-02-18,B01,HOU003,6,6,no,more flavor options,liked the freshness
+F00564,2025-02-12,B04,DES001,8,5,yes,keep same quality,liked the freshness
+F00565,2025-02-24,B06,BEV004,8,5,yes,better promotion visibility,good value for money
+F00566,2025-03-24,B05,BEV002,9,7,maybe,better promotion visibility,quick and convenient
+F00567,2025-02-04,B03,SNK002,6,8,maybe,keep same quality,would buy again
+F00568,2025-02-03,B02,DES001,7,8,yes,bundle with drink,liked the freshness
+F00569,2025-02-18,B04,RTE004,8,6,yes,keep same quality,good value for money
+F00570,2025-03-10,B06,RTE003,6,6,maybe,more flavor options,good value for money
+F00571,2025-03-11,B04,DES001,7,9,yes,keep same quality,quick and convenient
+F00572,2025-01-13,B05,BEV002,6,7,maybe,more flavor options,would buy again
+F00573,2025-03-18,B03,RTE004,6,5,maybe,better promotion visibility,quick and convenient
+F00574,2025-03-13,B06,HOU001,6,4,maybe,better promotion visibility,would buy again
+F00575,2025-01-10,B04,RTE003,7,8,yes,keep same quality,quick and convenient
+F00576,2025-03-10,B04,RTE003,3,7,no,packaging damaged,good idea but execution weak
+F00577,2025-03-13,B05,RTE003,6,9,yes,more flavor options,liked the freshness
+F00578,2025-02-10,B03,RTE002,6,9,maybe,more flavor options,would buy again
+F00579,2025-01-14,B04,DES002,6,8,maybe,keep same quality,quick and convenient
+F00580,2025-03-02,B06,BEV001,6,6,no,keep same quality,good value for money
+F00581,2025-02-15,B01,DES002,6,6,no,better promotion visibility,quick and convenient
+F00582,2025-03-26,B04,DES002,6,7,maybe,more flavor options,liked the freshness
+F00583,2025-03-03,B02,SNK001,7,7,yes,keep same quality,liked the freshness
+F00584,2025-01-11,B02,SNK002,5,7,no,freshness issue,good idea but execution weak
+F00585,2025-01-06,B06,RTE003,4,6,no,freshness issue,branch stock seems unstable
+F00586,2025-03-10,B02,RTE001,9,5,no,bundle with drink,liked the freshness
+F00587,2025-03-23,B06,RTE004,6,6,yes,bundle with drink,quick and convenient
+F00588,2025-02-19,B06,DES001,9,5,maybe,more flavor options,good value for money
+F00589,2025-03-04,B02,HOU002,5,6,yes,portion too small,good idea but execution weak
+F00590,2025-03-30,B04,HOU002,7,5,yes,keep same quality,quick and convenient
+F00591,2025-03-08,B05,SNK003,4,5,no,portion too small,not as fresh as before
+F00592,2025-01-16,B04,BEV002,5,7,no,too salty,quality felt inconsistent
+F00593,2025-01-15,B03,SNK002,8,6,yes,keep same quality,quick and convenient
+F00594,2025-03-20,B02,RTE004,5,6,maybe,out of stock often,good idea but execution weak
+F00595,2025-03-16,B02,RTE003,6,4,no,keep same quality,quick and convenient
+F00596,2025-03-05,B04,SNK004,6,7,no,more flavor options,liked the freshness
+F00597,2025-03-07,B01,DES002,10,7,no,more flavor options,good value for money
+F00598,2025-03-22,B06,RTE002,5,9,no,freshness issue,good idea but execution weak
+F00599,2025-03-12,B01,BEV003,5,6,no,too salty,not as fresh as before
+F00600,2025-02-07,B04,RTE003,8,3,yes,more flavor options,liked the freshness
+F00601,2025-02-02,B05,BEV001,7,9,yes,more flavor options,would buy again
+F00602,2025-02-05,B04,RTE003,7,6,maybe,bundle with drink,quick and convenient
+F00603,2025-01-25,B04,RTE004,6,7,no,better promotion visibility,liked the freshness
+F00604,2025-01-10,B03,HOU001,6,6,no,bundle with drink,quick and convenient
+F00605,2025-01-27,B02,BEV002,7,8,yes,keep same quality,would buy again
+F00606,2025-01-15,B06,SNK004,6,7,maybe,more flavor options,liked the freshness
+F00607,2025-02-19,B04,BEV001,6,6,yes,better promotion visibility,quick and convenient
+F00608,2025-01-12,B01,HOU002,9,8,yes,keep same quality,liked the freshness
+F00609,2025-02-16,B02,RTE004,9,6,maybe,better promotion visibility,quick and convenient
+F00610,2025-01-03,B02,BEV001,8,7,maybe,better promotion visibility,would buy again
+F00611,2025-02-21,B06,DES001,8,3,no,better promotion visibility,good value for money
+F00612,2025-03-03,B02,HOU001,5,6,maybe,packaging damaged,not as fresh as before
+F00613,2025-02-03,B04,SNK004,7,9,maybe,more flavor options,would buy again
+F00614,2025-03-14,B04,RTE003,8,5,yes,bundle with drink,liked the freshness
+F00615,2025-01-30,B01,SNK004,9,6,yes,better promotion visibility,good value for money
+F00616,2025-02-10,B03,RTE001,8,4,yes,more flavor options,liked the freshness
+F00617,2025-03-25,B03,RTE004,6,7,yes,better promotion visibility,quick and convenient
+F00618,2025-01-17,B05,BEV003,6,6,no,better promotion visibility,quick and convenient
+F00619,2025-02-07,B04,BEV001,10,4,maybe,more flavor options,liked the freshness
+F00620,2025-03-15,B04,SNK004,7,8,yes,more flavor options,would buy again
+F00621,2025-02-28,B06,RTE004,6,8,no,keep same quality,good value for money
+F00622,2025-01-05,B03,HOU002,9,7,yes,bundle with drink,quick and convenient
+F00623,2025-03-15,B03,BEV004,5,7,no,freshness issue,branch stock seems unstable
+F00624,2025-02-13,B03,SNK004,8,7,yes,bundle with drink,liked the freshness
+F00625,2025-03-26,B02,RTE001,5,4,no,too salty,good idea but execution weak
+F00626,2025-01-27,B05,HOU001,5,6,maybe,temperature not right,not as fresh as before
+F00627,2025-03-20,B01,RTE001,6,5,no,better promotion visibility,quick and convenient
+F00628,2025-01-08,B05,DES001,7,6,maybe,more flavor options,quick and convenient
+F00629,2025-01-20,B03,RTE002,7,6,yes,more flavor options,quick and convenient
+F00630,2025-01-13,B01,BEV004,5,6,no,out of stock often,branch stock seems unstable
+F00631,2025-01-02,B04,RTE003,7,7,no,more flavor options,liked the freshness
+F00632,2025-03-15,B03,BEV004,8,6,yes,better promotion visibility,quick and convenient
+F00633,2025-01-07,B01,SNK004,8,7,yes,keep same quality,quick and convenient
+F00634,2025-01-05,B06,SNK004,8,8,yes,keep same quality,liked the freshness
+F00635,2025-03-22,B01,HOU002,7,6,no,better promotion visibility,quick and convenient
+F00636,2025-01-18,B06,DES003,6,7,yes,bundle with drink,quick and convenient
+F00637,2025-03-05,B05,BEV002,7,6,no,bundle with drink,good value for money
+F00638,2025-02-12,B06,RTE001,8,5,maybe,more flavor options,would buy again
+F00639,2025-03-06,B01,HOU002,6,6,maybe,bundle with drink,good value for money
+F00640,2025-03-26,B04,BEV001,7,8,no,better promotion visibility,quick and convenient
+F00641,2025-02-25,B03,RTE001,6,7,maybe,more flavor options,quick and convenient
+F00642,2025-01-11,B03,SNK001,6,7,maybe,more flavor options,liked the freshness
+F00643,2025-01-09,B03,SNK003,5,5,no,temperature not right,good idea but execution weak
+F00644,2025-01-22,B05,SNK004,6,10,no,more flavor options,good value for money
+F00645,2025-01-13,B02,RTE003,8,6,maybe,bundle with drink,liked the freshness
+F00646,2025-02-21,B01,SNK002,7,5,yes,bundle with drink,would buy again
+F00647,2025-03-23,B05,SNK003,7,4,no,keep same quality,would buy again
+F00648,2025-01-31,B06,DES002,9,4,maybe,keep same quality,good value for money
+F00649,2025-03-17,B04,DES003,8,5,yes,keep same quality,liked the freshness
+F00650,2025-02-10,B06,DES002,8,7,yes,better promotion visibility,liked the freshness
+F00651,2025-03-08,B03,RTE002,5,7,no,portion too small,good idea but execution weak
+F00652,2025-03-15,B06,BEV003,7,7,yes,better promotion visibility,would buy again
+F00653,2025-03-30,B06,SNK003,3,7,maybe,freshness issue,branch stock seems unstable
+F00654,2025-03-13,B04,HOU003,3,7,maybe,freshness issue,quality felt inconsistent
+F00655,2025-01-14,B05,DES002,7,7,yes,keep same quality,liked the freshness
+F00656,2025-03-23,B01,HOU002,4,9,yes,packaging damaged,quality felt inconsistent
+F00657,2025-03-01,B05,DES002,7,4,yes,more flavor options,quick and convenient
+F00658,2025-02-14,B06,BEV003,8,7,yes,more flavor options,good value for money
+F00659,2025-03-24,B06,RTE002,5,7,no,portion too small,not as fresh as before
+F00660,2025-01-04,B03,BEV002,9,5,yes,better promotion visibility,good value for money
+F00661,2025-01-05,B06,SNK001,9,7,yes,bundle with drink,liked the freshness
+F00662,2025-01-29,B01,DES002,7,9,yes,more flavor options,would buy again
+F00663,2025-02-26,B01,RTE003,9,6,maybe,keep same quality,liked the freshness
+F00664,2025-03-27,B04,DES002,7,9,yes,bundle with drink,liked the freshness
+F00665,2025-02-26,B03,RTE003,8,7,yes,keep same quality,quick and convenient
+F00666,2025-02-19,B02,RTE002,7,6,yes,more flavor options,good value for money
+F00667,2025-02-13,B05,SNK004,8,8,yes,more flavor options,good value for money
+F00668,2025-02-17,B04,SNK004,8,8,yes,bundle with drink,liked the freshness
+F00669,2025-01-14,B01,HOU003,8,4,yes,bundle with drink,good value for money
+F00670,2025-03-20,B03,SNK003,8,4,yes,bundle with drink,would buy again
+F00671,2025-02-03,B03,SNK003,9,9,yes,more flavor options,would buy again
+F00672,2025-03-26,B05,DES001,8,6,yes,more flavor options,would buy again
+F00673,2025-01-25,B02,RTE003,5,5,no,packaging damaged,good idea but execution weak
+F00674,2025-02-08,B01,RTE002,8,8,yes,bundle with drink,liked the freshness
+F00675,2025-01-19,B05,BEV004,7,5,yes,more flavor options,good value for money
+F00676,2025-03-25,B06,SNK002,5,5,maybe,packaging damaged,quality felt inconsistent
+F00677,2025-01-22,B06,SNK004,5,7,yes,portion too small,quality felt inconsistent
+F00678,2025-03-20,B03,BEV004,5,9,no,portion too small,not as fresh as before
+F00679,2025-02-24,B01,DES002,8,7,no,more flavor options,would buy again
+F00680,2025-02-10,B03,RTE002,9,5,maybe,keep same quality,liked the freshness
+F00681,2025-02-21,B03,HOU003,7,4,no,bundle with drink,would buy again
+F00682,2025-03-21,B01,HOU002,5,7,yes,out of stock often,quality felt inconsistent
+F00683,2025-01-21,B01,SNK003,6,6,no,bundle with drink,would buy again
+F00684,2025-03-09,B05,BEV001,5,8,no,out of stock often,good idea but execution weak
+F00685,2025-01-13,B01,DES001,6,3,no,more flavor options,would buy again
+F00686,2025-02-24,B05,HOU001,6,7,yes,keep same quality,good value for money
+F00687,2025-01-04,B03,BEV002,4,9,no,freshness issue,good idea but execution weak
+F00688,2025-01-15,B04,RTE001,5,9,no,temperature not right,not as fresh as before
+F00689,2025-01-09,B05,DES002,5,7,yes,out of stock often,good idea but execution weak
+F00690,2025-03-07,B01,DES002,8,5,yes,keep same quality,quick and convenient
+F00691,2025-02-04,B03,SNK004,5,7,no,temperature not right,good idea but execution weak
+F00692,2025-01-08,B06,DES002,7,7,yes,bundle with drink,liked the freshness
+F00693,2025-02-05,B05,SNK003,5,6,maybe,out of stock often,not as fresh as before
+F00694,2025-02-03,B05,RTE004,5,5,yes,too salty,not as fresh as before
+F00695,2025-03-04,B01,RTE004,8,5,yes,keep same quality,quick and convenient
+F00696,2025-01-20,B05,DES002,6,7,no,keep same quality,quick and convenient
+F00697,2025-03-10,B04,RTE003,8,8,yes,keep same quality,liked the freshness
+F00698,2025-03-10,B01,RTE004,6,6,no,bundle with drink,good value for money
+F00699,2025-02-09,B04,BEV003,6,6,yes,better promotion visibility,liked the freshness
+F00700,2025-02-17,B06,RTE001,4,8,maybe,freshness issue,not as fresh as before
+F00701,2025-03-12,B01,SNK002,6,6,no,more flavor options,good value for money
+F00702,2025-01-08,B05,DES001,10,6,yes,keep same quality,liked the freshness
+F00703,2025-03-17,B01,RTE001,5,6,no,out of stock often,quality felt inconsistent
+F00704,2025-03-26,B03,SNK002,6,7,yes,keep same quality,good value for money
+F00705,2025-03-24,B05,SNK002,7,6,no,keep same quality,quick and convenient
+F00706,2025-02-22,B06,RTE001,3,6,yes,portion too small,quality felt inconsistent
+F00707,2025-02-08,B04,SNK001,9,6,yes,better promotion visibility,quick and convenient
+F00708,2025-02-11,B03,HOU003,8,6,yes,keep same quality,liked the freshness
+F00709,2025-02-03,B06,DES003,6,5,no,keep same quality,would buy again
+F00710,2025-01-19,B06,SNK002,7,8,yes,better promotion visibility,quick and convenient
+F00711,2025-02-17,B01,SNK004,7,5,yes,keep same quality,would buy again
+F00712,2025-01-01,B05,SNK004,8,7,maybe,more flavor options,quick and convenient
+F00713,2025-02-03,B02,HOU001,5,10,no,packaging damaged,branch stock seems unstable
+F00714,2025-03-16,B05,BEV002,6,8,no,bundle with drink,good value for money
+F00715,2025-02-27,B06,RTE002,8,8,maybe,bundle with drink,quick and convenient
+F00716,2025-01-04,B03,BEV001,6,6,no,keep same quality,good value for money
+F00717,2025-01-21,B04,RTE002,8,6,no,bundle with drink,would buy again
+F00718,2025-01-29,B05,DES002,8,4,yes,better promotion visibility,liked the freshness
+F00719,2025-02-23,B02,BEV004,5,5,yes,temperature not right,not as fresh as before
+F00720,2025-03-03,B06,BEV001,6,6,maybe,bundle with drink,quick and convenient
+F00721,2025-01-02,B04,BEV003,6,6,yes,better promotion visibility,good value for money
+F00722,2025-03-22,B04,BEV001,4,6,yes,freshness issue,not as fresh as before
+F00723,2025-02-16,B06,BEV002,6,7,no,more flavor options,liked the freshness
+F00724,2025-02-26,B02,DES003,7,6,yes,keep same quality,liked the freshness
+F00725,2025-03-31,B06,SNK004,5,6,no,packaging damaged,good idea but execution weak
+F00726,2025-02-25,B03,DES001,5,8,no,temperature not right,good idea but execution weak
+F00727,2025-01-12,B06,DES003,5,6,yes,freshness issue,good idea but execution weak
+F00728,2025-01-30,B04,DES001,10,5,yes,more flavor options,would buy again
+F00729,2025-02-27,B04,RTE001,6,5,yes,keep same quality,good value for money
+F00730,2025-03-22,B03,HOU002,8,8,yes,better promotion visibility,good value for money
+F00731,2025-02-23,B01,BEV001,8,5,no,more flavor options,liked the freshness
+F00732,2025-03-18,B01,BEV003,5,9,no,packaging damaged,not as fresh as before
+F00733,2025-02-09,B06,DES001,9,8,yes,keep same quality,liked the freshness
+F00734,2025-01-19,B01,SNK002,7,5,yes,more flavor options,liked the freshness
+F00735,2025-02-07,B03,RTE003,5,7,yes,too salty,quality felt inconsistent
+F00736,2025-02-15,B06,RTE003,7,6,yes,keep same quality,quick and convenient
+F00737,2025-01-01,B02,DES002,6,5,no,keep same quality,quick and convenient
+F00738,2025-03-09,B02,DES003,6,7,no,more flavor options,quick and convenient
+F00739,2025-03-09,B03,SNK004,6,4,no,keep same quality,good value for money
+F00740,2025-01-14,B04,HOU002,6,9,no,keep same quality,good value for money
+F00741,2025-01-05,B06,BEV002,7,8,yes,keep same quality,quick and convenient
+F00742,2025-01-10,B05,BEV002,7,3,maybe,keep same quality,liked the freshness
+F00743,2025-02-11,B04,BEV004,7,6,no,better promotion visibility,liked the freshness
+F00744,2025-02-12,B03,BEV002,7,5,maybe,more flavor options,liked the freshness
+F00745,2025-01-20,B01,SNK001,7,9,maybe,bundle with drink,quick and convenient
+F00746,2025-03-04,B03,SNK001,4,7,maybe,out of stock often,good idea but execution weak
+F00747,2025-03-23,B06,BEV003,7,7,no,bundle with drink,would buy again
+F00748,2025-02-27,B06,RTE004,7,6,maybe,keep same quality,liked the freshness
+F00749,2025-01-20,B06,RTE003,10,6,maybe,more flavor options,liked the freshness
+F00750,2025-01-10,B06,RTE004,6,4,yes,bundle with drink,good value for money
+F00751,2025-03-16,B06,BEV002,8,9,maybe,better promotion visibility,good value for money
+F00752,2025-03-24,B04,SNK003,5,5,maybe,packaging damaged,quality felt inconsistent
+F00753,2025-03-13,B02,SNK001,9,4,maybe,more flavor options,quick and convenient
+F00754,2025-01-22,B04,SNK001,4,8,maybe,temperature not right,quality felt inconsistent
+F00755,2025-03-06,B01,DES002,7,6,yes,bundle with drink,liked the freshness
+F00756,2025-03-06,B04,SNK004,6,7,no,bundle with drink,liked the freshness
+F00757,2025-01-21,B01,DES003,6,7,maybe,better promotion visibility,quick and convenient
+F00758,2025-03-10,B06,HOU003,7,4,yes,bundle with drink,would buy again
+F00759,2025-01-24,B03,SNK003,8,8,yes,bundle with drink,quick and convenient
+F00760,2025-03-13,B02,HOU002,6,10,no,more flavor options,liked the freshness
+F00761,2025-01-26,B06,DES003,10,4,maybe,better promotion visibility,good value for money
+F00762,2025-01-12,B04,HOU001,5,6,no,freshness issue,branch stock seems unstable
+F00763,2025-02-19,B01,HOU001,8,5,maybe,better promotion visibility,liked the freshness
+F00764,2025-03-07,B01,HOU001,6,5,maybe,better promotion visibility,quick and convenient
+F00765,2025-03-22,B05,DES003,6,7,maybe,bundle with drink,good value for money
+F00766,2025-02-28,B04,SNK004,7,8,maybe,keep same quality,would buy again
+F00767,2025-02-04,B05,SNK001,8,6,maybe,keep same quality,liked the freshness
+F00768,2025-03-24,B02,SNK002,8,8,yes,keep same quality,good value for money
+F00769,2025-01-03,B05,BEV003,5,8,no,freshness issue,quality felt inconsistent
+F00770,2025-03-22,B01,BEV003,6,7,yes,bundle with drink,liked the freshness
+F00771,2025-03-06,B03,RTE003,7,8,yes,keep same quality,would buy again
+F00772,2025-02-13,B05,HOU002,8,7,no,more flavor options,would buy again
+F00773,2025-02-02,B06,HOU002,6,6,maybe,better promotion visibility,would buy again
+F00774,2025-01-05,B02,SNK003,7,5,maybe,bundle with drink,would buy again
+F00775,2025-01-03,B06,BEV002,5,2,no,temperature not right,branch stock seems unstable
+F00776,2025-02-01,B05,DES001,6,7,yes,bundle with drink,quick and convenient
+F00777,2025-01-31,B02,HOU003,5,5,maybe,packaging damaged,not as fresh as before
+F00778,2025-01-24,B06,RTE003,9,6,yes,more flavor options,would buy again
+F00779,2025-03-14,B04,RTE001,7,7,yes,keep same quality,would buy again
+F00780,2025-02-12,B03,HOU003,5,7,yes,freshness issue,not as fresh as before
+F00781,2025-02-01,B06,RTE004,8,7,no,bundle with drink,quick and convenient
+F00782,2025-02-22,B01,DES003,6,10,no,keep same quality,would buy again
+F00783,2025-02-25,B01,RTE003,7,5,yes,better promotion visibility,liked the freshness
+F00784,2025-03-14,B03,RTE004,6,4,maybe,keep same quality,would buy again
+F00785,2025-03-11,B06,SNK004,5,6,no,temperature not right,quality felt inconsistent
+F00786,2025-01-01,B01,RTE001,6,7,no,more flavor options,good value for money
+F00787,2025-01-09,B02,SNK004,8,9,maybe,bundle with drink,good value for money
+F00788,2025-03-21,B02,BEV001,3,3,no,packaging damaged,branch stock seems unstable
+F00789,2025-03-26,B04,HOU001,5,10,maybe,temperature not right,good idea but execution weak
+F00790,2025-01-10,B02,RTE004,8,6,no,better promotion visibility,would buy again
+F00791,2025-02-16,B05,DES002,7,4,maybe,better promotion visibility,would buy again
+F00792,2025-01-23,B01,SNK002,9,6,maybe,bundle with drink,good value for money
+F00793,2025-01-01,B01,SNK004,8,8,yes,more flavor options,would buy again
+F00794,2025-03-30,B05,RTE002,7,7,maybe,bundle with drink,good value for money
+F00795,2025-02-07,B01,DES002,8,8,yes,more flavor options,liked the freshness
+F00796,2025-01-12,B05,BEV002,8,6,yes,bundle with drink,liked the freshness
+F00797,2025-02-28,B02,SNK001,10,6,yes,bundle with drink,liked the freshness
+F00798,2025-02-17,B04,BEV003,5,8,maybe,packaging damaged,good idea but execution weak
+F00799,2025-03-29,B06,BEV002,4,8,no,too salty,not as fresh as before
+F00800,2025-02-11,B05,RTE002,6,6,no,better promotion visibility,good value for money
+F00801,2025-01-01,B04,HOU002,10,5,maybe,better promotion visibility,liked the freshness
+F00802,2025-01-21,B04,BEV004,8,7,yes,better promotion visibility,good value for money
+F00803,2025-01-02,B03,HOU001,10,7,no,better promotion visibility,liked the freshness
+F00804,2025-02-08,B06,DES003,8,7,yes,bundle with drink,quick and convenient
+F00805,2025-03-01,B02,HOU001,7,4,maybe,bundle with drink,quick and convenient
+F00806,2025-02-25,B02,BEV001,5,6,no,packaging damaged,good idea but execution weak
+F00807,2025-02-10,B01,BEV001,8,8,maybe,keep same quality,quick and convenient
+F00808,2025-01-30,B05,BEV001,8,7,yes,keep same quality,quick and convenient
+F00809,2025-03-11,B02,RTE004,9,9,maybe,keep same quality,good value for money
+F00810,2025-03-16,B03,RTE002,9,10,yes,keep same quality,liked the freshness
+F00811,2025-03-21,B05,SNK002,6,5,no,more flavor options,quick and convenient
+F00812,2025-01-28,B01,SNK001,7,6,yes,bundle with drink,quick and convenient
+F00813,2025-01-08,B01,DES003,6,7,no,bundle with drink,would buy again
+F00814,2025-01-29,B01,HOU001,10,6,maybe,bundle with drink,good value for money
+F00815,2025-01-18,B04,SNK003,6,4,maybe,bundle with drink,liked the freshness
+F00816,2025-01-04,B01,DES003,7,5,yes,better promotion visibility,liked the freshness
+F00817,2025-03-10,B04,SNK004,7,8,maybe,bundle with drink,good value for money
+F00818,2025-01-12,B03,BEV001,4,5,maybe,too salty,good idea but execution weak
+F00819,2025-01-19,B04,HOU003,7,6,yes,keep same quality,liked the freshness
+F00820,2025-02-02,B06,DES002,10,8,yes,bundle with drink,good value for money
+F00821,2025-02-09,B02,RTE003,6,6,yes,more flavor options,good value for money
+F00822,2025-01-27,B03,DES002,9,7,yes,more flavor options,quick and convenient
+F00823,2025-01-22,B01,HOU001,7,9,maybe,bundle with drink,would buy again
+F00824,2025-01-13,B06,HOU002,7,7,maybe,more flavor options,liked the freshness
+F00825,2025-03-28,B01,RTE002,5,5,yes,out of stock often,quality felt inconsistent
+F00826,2025-03-06,B02,BEV002,6,6,maybe,better promotion visibility,quick and convenient
+F00827,2025-03-08,B04,BEV004,8,5,no,bundle with drink,liked the freshness
+F00828,2025-02-18,B06,DES002,6,7,maybe,better promotion visibility,liked the freshness
+F00829,2025-01-07,B01,DES002,7,6,maybe,keep same quality,good value for money
+F00830,2025-01-09,B02,SNK002,7,6,maybe,bundle with drink,good value for money
+F00831,2025-03-02,B04,BEV001,3,5,no,too salty,quality felt inconsistent
+F00832,2025-01-03,B02,DES003,8,6,yes,better promotion visibility,good value for money
+F00833,2025-01-16,B06,BEV002,7,7,yes,better promotion visibility,would buy again
+F00834,2025-02-15,B01,SNK004,5,6,no,portion too small,not as fresh as before
+F00835,2025-02-01,B04,SNK004,8,8,maybe,more flavor options,good value for money
+F00836,2025-03-10,B01,HOU001,4,5,yes,packaging damaged,branch stock seems unstable
+F00837,2025-01-12,B02,DES002,7,10,maybe,better promotion visibility,liked the freshness
+F00838,2025-01-27,B05,HOU001,9,5,yes,bundle with drink,quick and convenient
+F00839,2025-03-10,B02,DES003,6,5,yes,more flavor options,quick and convenient
+F00840,2025-01-06,B02,DES001,8,5,yes,better promotion visibility,would buy again
+F00841,2025-02-14,B02,RTE001,6,7,yes,bundle with drink,good value for money
+F00842,2025-01-30,B05,RTE003,7,3,yes,bundle with drink,quick and convenient
+F00843,2025-01-05,B05,HOU001,5,6,yes,freshness issue,quality felt inconsistent
+F00844,2025-03-28,B02,HOU002,7,6,yes,bundle with drink,quick and convenient
+F00845,2025-01-02,B04,BEV002,6,7,no,more flavor options,good value for money
+F00846,2025-03-10,B04,RTE004,8,6,no,better promotion visibility,quick and convenient
+F00847,2025-01-24,B02,HOU001,5,7,yes,out of stock often,good idea but execution weak
+F00848,2025-01-01,B01,RTE001,8,6,maybe,better promotion visibility,good value for money
+F00849,2025-02-23,B03,HOU001,6,7,no,keep same quality,liked the freshness
+F00850,2025-01-05,B06,HOU001,8,8,yes,more flavor options,good value for money
+F00851,2025-02-06,B06,BEV002,8,8,yes,keep same quality,quick and convenient
+F00852,2025-01-06,B04,DES001,7,9,yes,more flavor options,would buy again
+F00853,2025-01-30,B02,SNK004,5,7,yes,temperature not right,not as fresh as before
+F00854,2025-03-28,B01,BEV002,8,7,no,better promotion visibility,quick and convenient
+F00855,2025-02-04,B05,HOU003,8,9,yes,keep same quality,good value for money
+F00856,2025-03-14,B04,HOU002,5,4,no,too salty,branch stock seems unstable
+F00857,2025-02-09,B01,BEV004,6,5,yes,more flavor options,good value for money
+F00858,2025-03-11,B03,SNK002,8,9,yes,bundle with drink,quick and convenient
+F00859,2025-03-19,B06,BEV001,6,6,yes,better promotion visibility,quick and convenient
+F00860,2025-03-18,B03,DES002,7,9,yes,better promotion visibility,would buy again
+F00861,2025-02-11,B01,RTE003,8,7,maybe,bundle with drink,would buy again
+F00862,2025-01-03,B01,HOU002,5,6,yes,freshness issue,branch stock seems unstable
+F00863,2025-02-01,B03,DES002,8,8,yes,bundle with drink,quick and convenient
+F00864,2025-01-10,B05,SNK001,5,6,no,packaging damaged,branch stock seems unstable
+F00865,2025-03-08,B06,DES003,5,7,no,out of stock often,good idea but execution weak
+F00866,2025-02-28,B05,BEV002,8,9,maybe,more flavor options,quick and convenient
+F00867,2025-02-05,B02,BEV003,4,6,maybe,freshness issue,branch stock seems unstable
+F00868,2025-01-31,B05,BEV004,6,3,no,keep same quality,quick and convenient
+F00869,2025-03-29,B01,SNK003,7,7,no,more flavor options,good value for money
+F00870,2025-01-04,B06,DES001,7,6,yes,bundle with drink,liked the freshness
+F00871,2025-03-10,B04,BEV004,8,5,maybe,better promotion visibility,quick and convenient
+F00872,2025-01-14,B03,RTE001,4,9,yes,freshness issue,good idea but execution weak
+F00873,2025-02-18,B04,BEV004,9,5,no,more flavor options,liked the freshness
+F00874,2025-02-10,B04,RTE002,10,9,yes,better promotion visibility,liked the freshness
+F00875,2025-03-01,B02,RTE003,5,6,yes,out of stock often,not as fresh as before
+F00876,2025-02-16,B01,HOU001,6,7,no,bundle with drink,good value for money
+F00877,2025-02-17,B04,SNK003,7,6,yes,better promotion visibility,liked the freshness
+F00878,2025-01-05,B05,BEV003,6,6,maybe,more flavor options,would buy again
+F00879,2025-01-28,B06,DES003,9,5,yes,bundle with drink,would buy again
+F00880,2025-02-19,B01,SNK003,7,3,no,keep same quality,liked the freshness
+F00881,2025-03-29,B01,RTE004,8,7,maybe,keep same quality,quick and convenient
+F00882,2025-03-03,B01,HOU002,7,9,yes,keep same quality,would buy again
+F00883,2025-03-08,B03,BEV002,7,9,yes,better promotion visibility,would buy again
+F00884,2025-03-21,B05,BEV003,6,7,no,keep same quality,good value for money
+F00885,2025-01-26,B06,HOU001,7,6,maybe,keep same quality,quick and convenient
+F00886,2025-01-24,B04,RTE003,8,8,yes,keep same quality,good value for money
+F00887,2025-02-06,B01,HOU001,6,7,no,more flavor options,would buy again
+F00888,2025-01-17,B03,SNK001,6,8,maybe,keep same quality,would buy again
+F00889,2025-02-04,B04,HOU002,6,4,maybe,bundle with drink,good value for money
+F00890,2025-02-05,B04,SNK004,7,7,maybe,better promotion visibility,would buy again
+F00891,2025-01-31,B02,SNK003,9,8,maybe,more flavor options,liked the freshness
+F00892,2025-01-06,B04,RTE002,6,8,no,better promotion visibility,quick and convenient
+F00893,2025-01-10,B02,RTE002,7,5,maybe,bundle with drink,quick and convenient
+F00894,2025-01-03,B02,BEV003,8,8,yes,better promotion visibility,good value for money
+F00895,2025-02-16,B02,DES003,5,4,yes,packaging damaged,not as fresh as before
+F00896,2025-02-26,B01,HOU002,7,7,maybe,more flavor options,liked the freshness
+F00897,2025-02-11,B04,BEV004,7,6,yes,better promotion visibility,quick and convenient
+F00898,2025-02-22,B01,DES001,8,6,no,bundle with drink,liked the freshness
+F00899,2025-03-16,B03,BEV002,5,6,no,packaging damaged,quality felt inconsistent
+F00900,2025-01-26,B06,HOU001,6,3,no,keep same quality,quick and convenient

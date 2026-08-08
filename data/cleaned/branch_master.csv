@@ -1,0 +1,7 @@
+branch_id,branch_name,zone,store_size
+B01,Branch 1,Downtown,Medium
+B02,Branch 2,Office district,Medium
+B03,Branch 3,Residential east,Small
+B04,Branch 4,Residential west,Small
+B05,Branch 5,University,Small
+B06,Branch 6,Transit,Large
